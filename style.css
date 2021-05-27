@@ -104,3 +104,8 @@ h5 {
         width: 40%;
     }
 }
+
+form {
+  font-family: "Avenir Next Condensed" !important;
+  color: white;
+}
